@@ -30,5 +30,3 @@ eBay intends to boost its stock performance by analyzing online discussions to s
 - **BeautifulSoup**: For parsing HTML content.
 - **MongoDB**: For storing scraped data efficiently.
 
-## Installation and Setup 🛠️
-1. Install Python and necessary libraries:
