@@ -1,7 +1,7 @@
 # Financial-Stock-Sentiment-Algorithm-
 
 # eBay Data Collection Project 📊
-Group 17: Aditya Satpute, Meghana S Kanthadai, Ian Heggen.
+Group 17: Aditya Satpute, Meghana S Kanthadai, Ian Heggen
 
 ## Project Overview 👀
 This project aims to assess eBay's future stock performance by analyzing sentiment data collected through web scraping techniques. Contents from **Business Insider** and **Reddit's WallStreetBets subreddit** are scraped to gather investor sentiment. The data is then stored in MongoDB correlating public sentiment with eBay's stock price movements.
