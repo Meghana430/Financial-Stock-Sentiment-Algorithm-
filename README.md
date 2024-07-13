@@ -4,7 +4,7 @@
 Group 17: Aditya Satpute, Meghana S Kanthadai, Ian Heggen
 
 ## Project Overview 👀
-This project aims to assess eBay's future stock performance by analyzing sentiment data collected through web scraping techniques. Contents from **Business Insider** and **Reddit's WallStreetBets subreddit** are scraped to gather investor sentiment. The data is then stored in MongoDB correlating public sentiment with eBay's stock price movements.
+This project aims to assess eBay's future stock performance by analyzing sentiment data collected through web scraping techniques. Contents from **Business Insider** and **Reddit's WallStreetBets subreddit** are scraped to gather investor sentiment. The data is then stored in MongoDB correlating public sentiment with eBay's stock price movements
 
 ## Business Use Case 🏢
 eBay intends to boost its stock performance by analyzing online discussions to shape better business strategies. The overall goal is to enhance proactive decision-making concerning eBay stock volatility.
