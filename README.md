@@ -21,7 +21,7 @@ eBay intends to boost its stock performance by analyzing online discussions to s
 4. **Database Insertion**: Insert post details into MongoDB.
 
 ### Business Insider Scraping
-1. **Data Collection**: Automate browsing to collect article links and stock data.
+1. **Data Collection**: Automate browsing to collect article links and stock data
 2. **Parsing HTML**: Parse the saved HTML files to extract text content.
 3. **Database Insertion**: Insert article details into MongoDB.
 
